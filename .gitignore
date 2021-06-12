@@ -19,6 +19,8 @@ chrome-profiler-events*.json
 .classpath
 .c9/
 *.launch
+.editorconfig
+.browserslistrc
 .settings/
 *.sublime-workspace
 
